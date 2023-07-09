@@ -1,0 +1,7 @@
+dog
+cat
+humster
+parrot
+horse
+mule
+camel
