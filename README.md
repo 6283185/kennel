@@ -80,6 +80,7 @@
 человека
 
 	sudo mysql -u root -p
+
 	CREATE DATABASE friends_of_human;
 	
 8. Создать таблицы с иерархией из диаграммы в БД
